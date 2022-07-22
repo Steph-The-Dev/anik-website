@@ -2,7 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-  }
+}
 
 .container {
     display: flex;
@@ -38,6 +38,7 @@ img {
     height: 800px;
     position: left;
 }
+
 .item {
     display: block;
     flex-direction: column;
