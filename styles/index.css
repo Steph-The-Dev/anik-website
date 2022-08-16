@@ -4,7 +4,12 @@
     padding: 0;
 }
 
-.container {
+
+#main-text {
+    padding-top: 100px;
+}
+
+/* .container {
     display: flex;
     grid-template-columns: 6;
     justify-content: center;
@@ -45,3 +50,5 @@ img {
     /* justify-content: center; */
 
 }
+
+*/
