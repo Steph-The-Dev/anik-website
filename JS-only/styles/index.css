@@ -47,8 +47,4 @@ img {
 .item {
     display: block;
     flex-direction: column;
-    /* justify-content: center; */
-
-}
-
-*/
+    }
